@@ -1,0 +1,230 @@
+a:hover {
+
+}
+.fb {background:url(../images/fb.png) center no-repeat; background-size:32px 32px; }
+.pt {background:url(../images/pt.png) center no-repeat; background-size:32px 32px; }
+.ig {background:url(../images/ig.png) center no-repeat; background-size:32px 32px; }
+.tw {background:url(../images/tw.png) center no-repeat; background-size:32px 32px; }
+.upload-img {
+  background: #f7f7f7;
+  padding: 10px;
+}
+.hero {
+	height: 850px;
+}
+.contest-sponsor {
+	color: #ffffff;
+	font-size: 14px;
+}
+.hero-contest {
+  height: 100%;
+  position: relative;
+}
+.intro-contest {
+  position: absolute;
+  bottom: 0;
+  margin-top: 0;
+}
+.fb_iframe_widget,
+.fb_iframe_widget span,
+.fb_iframe_widget span iframe[style] {
+  min-width: 100% !important;
+  width: 100% !important;
+}
+.pic-desc {
+	margin: 50px 0 50px 0;
+}
+.share-contest a {
+  color: #ffffff;
+}
+.share-contest a:hover {
+  color: #C5D93E;
+}
+ul .unordered-list {
+  font-size: 18px;
+  font-weight: bold;
+}
+.head-contest {
+  padding: 20px 0 0 0;
+  height : 600px;
+  background-image: url("../images/defauslt.jpg");
+  background-position: center center;
+  background-size: cover;
+}
+.img-circular{
+ width: 120px;
+ height: 120px;
+ background-image: url('../images/aaa.png');
+ background-size: cover;
+ display: block;
+ border-radius: 100px;
+ margin: 0 auto;
+ -webkit-border-radius: 100px;
+ -moz-border-radius: 100px;
+}
+.sponsor{
+	font-size : 32px;
+	color: #ffffff;
+}
+.entries {
+  padding-bottom: 80px ;
+
+}
+.comments {
+	height: auto;
+	margin: 0 0 50px 0;
+}
+.win-title {
+	color: #FFFFFF;
+	size: 18px;
+	font-weight : 600;
+}
+.prize {
+  padding: 10px 20px 10px 20px;
+  width: auto;
+  font-size: 14px;
+}
+.prize a {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: open sans;
+  color: #ffffff;
+  width: auto;
+  font-size: 14px;
+  background:#3F7E00;
+  border: none;
+  height: auto;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  cursor: pointer;
+
+}.prize a:hover {
+  font-size : 14px;
+  font-weight : thin;
+  color: #ffffff;
+  margin: 20px 0 20px 0;
+}
+.content {
+  background-image: url("../images/defauslt.jpg");
+  background-position: center center;
+  background-size: cover;
+  height: auto;
+  left: 0;
+  min-height: 100%;
+  min-width: 100%;
+  position: relative;
+  width: auto;
+}
+.slide-text {
+  font-size: 58px;
+  color: #FFFFFF;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
+  text-align: center;
+  margin-top: 80px;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+.login-btn {
+  color: #12436a;
+}
+.btn-1 {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #fff;
+  font-size: 18px;
+  background: #c5d93e;
+  padding: 10px 20px 10px 20px;
+  border: none;
+  height: 50px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.btn-2 {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ffffff;
+  width: 150px;
+  font-size: 18px;
+  background: #EE6F0A;
+  border: none;
+  height: 50px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.btn-3 {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #fff;
+   width: 150px;
+  font-size: 18px;
+  border: 1px solid #fff;
+  background: transparent;
+  padding: 10px 20px 10px 20px;
+  height: 50px;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 5px;
+}
+.slide-text .btn-sign {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ffffff;
+  width: 150px;
+  font-size: 18px;
+  background: #12436a;
+  border: none;
+  height: 50px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 5px;
+}
+.slide-text  h3 {
+  font-size: 58px;
+  color: #FFFFFF;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
+  text-align: center;
+  margin-top: 80px;
+}
+.slide-text  h5 {
+  font-size: 28px;
+  color: #FFFFFF;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
+  text-align: center;
+  margin-top: 20px;
+}
+.btn-text{
+  padding-top: 50px;
+  color: #ffffff;
+}
+.btn-text a{
+  color: #ffffff;
+}
+.btn-text a:hover {
+ color: #C5D93E;
+}
+.entry-meta {
+  width: 50%;
+  float: left;
+}
+.entry-coumt {
+  font-size: 18px;
+}
+.btn-vote {
+  width: 50%;
+  padding: 25px 0 0 0;
+  float: right;
+}
+.clearfix {
+	clear: both;
+}
