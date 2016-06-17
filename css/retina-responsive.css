@@ -5,7 +5,7 @@
 only screen and (-moz-min-device-pixel-ratio: 1.5),
 only screen and (-o-min-device-pixel-ratio: 3/2),
 only screen and (min-device-pixel-ratio: 1.5) {
-h1#logo a { display:block; background:url(../images/bg-logo@2x.png) no-repeat; background-size:100px 56px; }
+h1#logo a { display:block; background:url(../images/bg-logo@2x.png) no-repeat; background-size:auto; }
 
 .email {background:url(../images/bg-email@2x.png) center center no-repeat; background-size:24px 16px; }
 .xing {background:url(../images/bg-xing@2x.png) center no-repeat; background-size:24px 24px; }
